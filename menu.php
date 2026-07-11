@@ -33,6 +33,7 @@ if (!isset($_SESSION['id_usuario'])) {
     <div class="saludo">¡Bienvenido(a), <?php echo htmlspecialchars($_SESSION['nombre_usuario']); ?>!</div>
     
     <!-- Opciones del Menú -->
+    <a href="dashboard.php" class="btn-menu">📊 Dashboard de Estadísticas</a>
     <a href="index.php" class="btn-menu">📝 Inscribir Nuevo Estudiante</a>
     <a href="consultar.php" class="btn-menu">🔍 Ver Registros de Estudiantes</a>
     <a href="gestion_usuarios.php" class="btn-menu btn-secondary">⚙️ Gestión de Usuarios (Cambiar Clave)</a>
