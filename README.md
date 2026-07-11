@@ -18,7 +18,7 @@
 ## 📖 Descripción del Proyecto
 
 El **Sistema de Gestión de Matrícula Escolar** es una aplicación web desarrollada como
-parte del **Servicio Comunitario** para la Escuela Básica Municipal Juana (E.B.M.J.)
+parte del **Servicio Comunitario** para la Escuela Básica Media Jornada (E.B.M.J.)
 **"San Francisco"**, ubicada en Barquisimeto, estado Lara.
 
 Su propósito es **digitalizar el proceso de inscripción de estudiantes**, que hasta ahora
